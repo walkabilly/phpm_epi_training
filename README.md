@@ -47,6 +47,12 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 
 ### Review of ANOVA, Chi-square, T-test
 
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here
+
 ### Review of forecasting
 
 #### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Forecating.pdf)
