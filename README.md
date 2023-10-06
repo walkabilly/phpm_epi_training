@@ -4,6 +4,8 @@ Resources for public health and preventive medicine residents related to their e
 
 The Epi training resources are based on the Objectives/Competencies based on Public Health and Preventive Medicine Objectives of Training 2014 (Editorial Revision March 2018 v1.1). The epi sessions are based on the following sessions and CanMEDS Roles within the `Epi and Biostats Review` competencies. 
 
+## Objectives and Competencies
+
 1. Review of ANOVA, Chi-square, T-test
     * MEDICAL EXPERT	2.1.6	Describe the analytic tests and methods used to explain differences in health and health related behaviours including but not limited to: Analysis of variance (ANOVA), Chi-square, Forecasting, Geospatial analysis, Kappa correlation, Life tables, Logistic regression, Modeling, Survival analysis, T-test
     * MEDICAL EXPERT	3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
@@ -41,5 +43,12 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
     * MEDICAL EXPERT	3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
     * MEDICAL EXPERT	3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 
+## Slides and Study Notes
 
+### Review of ANOVA, Chi-square, T-test
+
+### Review of forecasting
+
+Download slides here
+    
 
