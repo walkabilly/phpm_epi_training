@@ -65,4 +65,77 @@ __Additional articles and readings__
 * Pollett S, Johansson MA, Reich NG, Brett- Major D, Del Valle SY, Venkatramanan S, et al. (2021) Recommended reporting items for epidemic forecasting and prediction research: The EPIFORGE 2020 guidelines. PLoS Med 18(10): e1003793. [https://doi.org/10.1371/journal.pmed.1003793](https://doi.org/10.1371/journal.pmed.1003793).
 * Chen L-P, Zhang Q, Yi GY, He W (2021) Model-based forecasting for Canadian COVID-19 data. PLoS ONE 16(1): e0244536. [https://doi.org/10.1371/journal.pone.0244536](https://doi.org/10.1371/journal.pone.0244536).
 * Solomon PJ, Isham VS. Disease surveillance and data collection issues in epidemic modelling. Stat Methods Med Res. 2000 Jun;9(3):259-77. [doi.org/10.1177/096228020000900306](doi.org/10.1177/096228020000900306). 
+   
+### Review of geospatial analysis
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here   
+
+### Review of logistic regression and modeling
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here   
+
+### Review of survival analysis and life expectancy (life tables)
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here   
+
+### Review analysis asscociated with study designs
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here   
+
+### Review of qualitative analysis (delphi process, focus group, key informant surveys, nominal group, participant observation, etc)
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here   
+
+### Review of social network analysis
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here  
+
+### Review vaccine efficacy and effectiveness analysis
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here  
+
+### Review test analysis (sensitivity, specificity, NPV, PPV)	
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here  
+
+### Review measures of association
+
+#### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here  
+
 
