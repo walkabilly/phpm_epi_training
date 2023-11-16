@@ -82,11 +82,12 @@ __Additional articles and readings__
 
 ### Review of logistic regression and modeling
 
-#### [Put the Slides Here]()
+#### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Logistic%20Regression.pdf)
 
 __Additional articles and readings__
 
-* Add here   
+* [Youtube - Logistic Regression](https://www.youtube.com/watch?v=PIPVexXUvx0)  
+* Harris JK. Primer on binary logistic regression. Fam Med Community Health. 2021 Dec;9(Suppl 1):e001290. doi: 10.1136/fmch-2021-001290. PMID: 34952854; PMCID: PMC8710907.
 
 ### Review of survival analysis and life expectancy (life tables)
 
