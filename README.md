@@ -60,6 +60,7 @@ __Additional articles and readings__
 
 __Additional articles and readings__
 
+* [Youtube - The MATH of Pandemics | Intro to the SIR Model](https://www.youtube.com/watch?v=Qrp40ck3WpI)
 * Erin Coughlan de Perez, Elisabeth Stephens, Maarten van Aalst, Juan Bazo, Eleonore Fournier-Tombs, Sebastian Funk, Jeremy J. Hess, Nicola Ranger, Rachel Lowe. Epidemiological versus meteorological forecasts: Best practice for linking models to policymaking. International Journal of Forecasting, Volume 38, Issue 2, 2022, [https://doi.org/10.1016/j.ijforecast.2021.08.003](https://doi.org/10.1016/j.ijforecast.2021.08.003).
 * Rahimi, I., Chen, F. & Gandomi, A.H. A review on COVID-19 forecasting models. Neural Comput & Applic (2021). [https://doi.org/10.1007/s00521-020-05626-8](https://doi.org/10.1007/s00521-020-05626-8).
 * Angel N. Desai, Moritz U. G. Kraemer, Sangeeta Bhatia, Anne Cori, Pierre Nouvellet, Mark Herringer, Emily L. Cohn, Malwina Carrion, John S. Brownstein, Lawrence C. Madoff, and Britta Lassmann.Real-time Epidemic Forecasting: Challenges and Opportunities.Health Security.Aug 2019.268-275.[http://doi.org/10.1089/hs.2019.0022](http://doi.org/10.1089/hs.2019.0022).
