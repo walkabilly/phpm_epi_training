@@ -47,11 +47,12 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 
 ### Review of ANOVA, Chi-square, T-test
 
-#### [Put the Slides Here]()
+#### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Biostats_ANOVA.pdf)
 
 __Additional articles and readings__
 
-* Add here
+* [The Ultimate Guide to ANOVA](https://www.graphpad.com/guides/the-ultimate-guide-to-anova)
+* [YouTube Video](https://www.youtube.com/watch?v=g5HlLOwcXuI)
 
 ### Review of forecasting
 
