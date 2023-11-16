@@ -52,7 +52,7 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 __Additional articles and readings__
 
 * [The Ultimate Guide to ANOVA](https://www.graphpad.com/guides/the-ultimate-guide-to-anova)
-* [YouTube Video](https://www.youtube.com/watch?v=g5HlLOwcXuI)
+* [YouTube - ANOVA (Analysis of Variance) Analysis](https://www.youtube.com/watch?v=g5HlLOwcXuI)
 
 ### Review of forecasting
 
@@ -69,11 +69,15 @@ __Additional articles and readings__
    
 ### Review of geospatial analysis
 
-#### [Put the Slides Here]()
+#### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Geospatial%20Review.pdf)
 
 __Additional articles and readings__
 
-* Add here   
+* [Youtube - Introduction to Spatial Statistics](https://www.youtube.com/watch?v=VmWS_gSrCbk)
+* Huang L, Pickle LW, Das B. Evaluating spatial methods for investigating global clustering and cluster detection of cancer cases. Stat Med. 2008 Nov 10;27(25):5111-42. doi: 10.1002/sim.3342. PMID: 18712778; PMCID: PMC2575694.
+* [QGIS](https://qgis.org/en/site/)
+* [https://www.axismaps.com/guide/using-colors-on-maps](https://www.axismaps.com/guide/using-colors-on-maps)
+* [https://colorbrewer2.org/](https://colorbrewer2.org/)
 
 ### Review of logistic regression and modeling
 
