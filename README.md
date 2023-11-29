@@ -4,59 +4,32 @@ Resources for public health and preventive medicine residents related to their e
 
 The Epi training resources are based on the Objectives/Competencies based on Public Health and Preventive Medicine Objectives of Training 2014 (Editorial Revision March 2018 v1.1). The epi sessions are based on the following sessions and CanMEDS Roles within the `Epi and Biostats Review` competencies. 
 
-## Objectives and Competencies
+## Practice Material
 
-1. Review of ANOVA, Chi-square, T-test
-    * Medical Expert - 2.1.6	Describe the analytic tests and methods used to explain differences in health and health related behaviours including but not limited to: Analysis of variance (ANOVA), Chi-square, Forecasting, Geospatial analysis, Kappa correlation, Life tables, Logistic regression, Modeling, Survival analysis, T-test
-    * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
-    * Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
-2. Review of forecasting
-    * Medical Expert - 3.4.5	Interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Modelling, Forecasting, Geospatial analysis
-    * Medical Expert - 3.4.5.2	Forecasting
-3. Review of geospatial analysis
-    * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
-    * Medical Expert - 3.4.5	Interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Modelling, Forecasting, Geospatial analysis
-    * Medical Expert - 3.4.5.3	Geospatial analysis
-4. Review of logistic regression and modeling
-    * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
-    * Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
-    * Medical Expert - 3.4.5	Interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Modelling, Forecasting, Geospatial analysis
-    * Medical Expert - 3.4.5.1	Modelling
-5. Review of survival analysis and life expectancy (life tables)
-    * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
-    * Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
-6. Review analysis asscociated with study designs
-    * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
-    * Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
-7. Review of qualitative analysis (delphi process, focus group, key informant surveys, nominal group, participant observation, etc)
-    * Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
-    * Medical Expert - 3.4.6	Apply and interpret qualitative methods to explore knowledge, attitudes, beliefs and behaviours and public health interventions, including but not limited to: Participant observation, Key informant surveys, Nominal group, Focus group, Delphi process, Social network analysis and applicable approaches
-8. Review of social network analysis
-    * Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
-    * Medical Expert - 3.4.6	Apply and interpret qualitative methods to explore knowledge, attitudes, beliefs and behaviours and public health interventions, including but not limited to: Participant observation, Key informant surveys, Nominal group, Focus group, Delphi process, Social network analysis and applicable approaches
-9. Review vaccine efficacy and effectiveness analysis
-    * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
-10. Review test analysis (sensitivity, specificity, NPV, PPV)	
-    * Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
-    * Medical Expert - 	3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
-11. Review measures of association
-    * Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
-    * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 
 ## Slides and Study Notes
 
-### Review of ANOVA, Chi-square, T-test
+### ANOVA, Chi-square, T-test
 
-#### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Biostats_ANOVA.pdf)
+#### Objectives and Competencies
+* Medical Expert - 2.1.6	Describe the analytic tests and methods used to explain differences in health and health related behaviours including but not limited to: Analysis of variance (ANOVA), Chi-square, Forecasting, Geospatial analysis, Kappa correlation, Life tables, Logistic regression, Modeling, Survival analysis, T-test
+* Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
+* Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
+
+### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Biostats_ANOVA.pdf)
 
 __Additional articles and readings__
 
 * [The Ultimate Guide to ANOVA](https://www.graphpad.com/guides/the-ultimate-guide-to-anova)
 * [YouTube - ANOVA (Analysis of Variance) Analysis](https://www.youtube.com/watch?v=g5HlLOwcXuI)
 
-### Review of forecasting
+### Forecasting
 
-#### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Forecating.pdf)
+#### Objectives and Competencies
+* Medical Expert - 3.4.5	Interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Modelling, Forecasting, Geospatial analysis
+* Medical Expert - 3.4.5.2	Forecasting
+
+### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Forecating.pdf)
 
 __Additional articles and readings__
 
@@ -68,9 +41,14 @@ __Additional articles and readings__
 * Chen L-P, Zhang Q, Yi GY, He W (2021) Model-based forecasting for Canadian COVID-19 data. PLoS ONE 16(1): e0244536. [https://doi.org/10.1371/journal.pone.0244536](https://doi.org/10.1371/journal.pone.0244536).
 * Solomon PJ, Isham VS. Disease surveillance and data collection issues in epidemic modelling. Stat Methods Med Res. 2000 Jun;9(3):259-77. [doi.org/10.1177/096228020000900306](doi.org/10.1177/096228020000900306). 
    
-### Review of geospatial analysis
+### Geospatial analysis
 
-#### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Geospatial%20Review.pdf)
+#### Objectives and Competencies
+* Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
+* Medical Expert - 3.4.5	Interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Modelling, Forecasting, Geospatial analysis
+* Medical Expert - 3.4.5.3	Geospatial analysis
+
+### [Download slides here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Geospatial%20Review.pdf)
 
 __Additional articles and readings__
 
@@ -80,66 +58,99 @@ __Additional articles and readings__
 * [https://www.axismaps.com/guide/using-colors-on-maps](https://www.axismaps.com/guide/using-colors-on-maps)
 * [https://colorbrewer2.org/](https://colorbrewer2.org/)
 
-### Review of logistic regression and modeling
+### Logistic regression and modeling
 
-#### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Logistic%20Regression.pdf)
+#### Objectives and Competencies
+* Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
+* Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
+* Medical Expert - 3.4.5	Interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Modelling, Forecasting, Geospatial analysis
+* Medical Expert - 3.4.5.1	Modelling
+
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Logistic%20Regression.pdf)
 
 __Additional articles and readings__
 
 * [Youtube - Logistic Regression](https://www.youtube.com/watch?v=PIPVexXUvx0)  
 * Harris JK. Primer on binary logistic regression. Fam Med Community Health. 2021 Dec;9(Suppl 1):e001290. doi: 10.1136/fmch-2021-001290. PMID: 34952854; PMCID: PMC8710907.
 
-### Review of survival analysis and life expectancy (life tables)
+### Survival analysis and life expectancy (life tables)
 
-#### [Put the Slides Here]()
+#### Objectives and Competencies
+* Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
+* Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
 
-__Additional articles and readings__
-
-* Add here   
-
-### Review analysis asscociated with study designs
-
-#### [Put the Slides Here]()
+### [Put the Slides Here]()
 
 __Additional articles and readings__
 
 * Add here   
 
-### Review of qualitative analysis (delphi process, focus group, key informant surveys, nominal group, participant observation, etc)
+### Analysis asscociated with study designs
 
-#### [Put the Slides Here]()
+#### Objectives and Competencies
+* Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
+* Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
+
+### [Put the Slides Here]()
 
 __Additional articles and readings__
 
 * Add here   
 
-### Review of social network analysis
+### Qualitative analysis (delphi process, focus group, key informant surveys, nominal group, participant observation, etc)
 
-#### [Put the Slides Here]()
+#### Objectives and Competencies
+* Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
+* Medical Expert - 3.4.6	Apply and interpret qualitative methods to explore knowledge, attitudes, beliefs and behaviours and public health interventions, including but not limited to: Participant observation, Key informant surveys, Nominal group, Focus group, Delphi process, Social network analysis and applicable approaches
+
+### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here   
+
+### Social network analysis
+
+#### Objectives and Competencies
+* Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
+* Medical Expert - 3.4.6	Apply and interpret qualitative methods to explore knowledge, attitudes, beliefs and behaviours and public health interventions, including but not limited to: Participant observation, Key informant surveys, Nominal group, Focus group, Delphi process, Social network analysis and applicable approaches
+
+### [Put the Slides Here]()
 
 __Additional articles and readings__
 
 * Add here  
 
-### Review vaccine efficacy and effectiveness analysis
+### Vaccine efficacy and effectiveness analysis
 
-#### [Put the Slides Here]()
+#### Objectives and Competencies
+* Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 
-__Additional articles and readings__
-
-* Add here  
-
-### Review test analysis (sensitivity, specificity, NPV, PPV)	
-
-#### [Put the Slides Here]()
+### [Put the Slides Here]()
 
 __Additional articles and readings__
 
 * Add here  
 
-### Review measures of association
+### Test analysis (sensitivity, specificity, NPV, PPV)	
 
-#### [Put the Slides Here]()
+#### Objectives and Competencies
+* Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
+* Medical Expert - 	3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
+
+### [Put the Slides Here]()
+
+__Additional articles and readings__
+
+* Add here  
+
+### Measures of association
+
+#### Objectives and Competencies
+* Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
+* Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
+
+### [Put the Slides Here]()
 
 __Additional articles and readings__
 
