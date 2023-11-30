@@ -1,0 +1,32 @@
+# Random and Systematic Error + Types of Bias Answers
+
+### 1. Answer: If this random pattern of responding caused the estimate to be, it would be a form of systematic error. Random error arises due to sampling variability, not to inaccurate measurement.
+
+### 2. Answer: Estimates that arise from samples are always vulnerable to random error, but if the sample size is large, such error will be minimal.
+
+### 3. Answer: Random error is error that results from sampling variability. According to the law of large numbers and assuming that there are no defects in the study's design, the extent of random error will predictably diminish with increasing sample sizes. The extent of random error can be quantified using the process of estimation by confidence intervals. The width of confidence intervals is the precision of the estimate.
+
+### 4. Answer:
+  * a. Imperfect measurement creates vulnerability to bias. Because the sensitivity for this condition was quite low, it is likely that most cases would be missed, which would likely lead to bias. It should be noted that the interRAI rating system had excellent performance for several other conditions. Traumatic brain injury stood out in the Foebel et al. study as a specific condition where the performance of interRAI was not very good.
+  * b. Since interRAI was highly specific, few false positives are expected. Because its sensitivity for traumatic brain injury was low, those with traumatic brain injury will be underrepresented in the numerator of the prevalence formula, leading to a negative bias. The expected value of the estimate is too low.
+
+### 5. Answer:
+  * a. An unwillingness to disclose excessive use of substances could lower the sensitivity of the interview to detect these conditions. This could introduce bias, but it would not be selection bias. This would be a form of misclassification bias.
+  * b. The fear of stigma may have caused people with mental illnesses to be less likely to participate in the survey than people without such difficulties. This would result in the numerator of the prevalence equation being diminished and in estimates that are negatively biased.
+  * c. If there is no selection, then selection bias cannot occur. However, bias could still arise from problems affecting participation—for example, from problems with missing data. Investigators don't generally label bias due to missing data selection bias, although both types of bias occur through similar mechanisms if investigators handle missing data by excluding those participants from the calculations. Bias due to missing data is a better, descriptive label.
+
+### 6. Answer: The question appears to state that the selection probabilities would be lower in people with dementia. Therefore, participation in the survey is related to the attribute whose frequency is being estimated. This is a typical situation in which selection bias could occur. However, if the target population is the household population, then the target of estimation is the prevalence of dementia in the household population (not the entire population, which would include household residents and others, such as residents of institutions and homeless people). For this reason, bias would not occur, at least not through the mechanism specified.
+
+### 7. Answer: Such studies typically use the entire population in their denominator. This is the correct denominator, because universal health care in Canada essentially ensures that the entire population is registered with a provincial or territorial health care insurance plan. There are a few exceptions, such as members of the armed forces. The fact that some people with this condition may not have seen a physician during the study period (nor been admitted to a hospital) would not be a cause of selection bias. This would be a form of misclassification bias: some of those people would have been misclassified as not having the illness, but they would still be included in the prevalence calculation (they would appear in the denominator).
+
+### 8. Answer: Socioeconomic status is a determinant, or at least a marker, of a reduced likelihood of participation in a study and is also associated with many health problems. If a study sample has reduced participation from people of lower socioeconomic status, it is likely to have reduced participation from those who have diseases, which would often lead to underestimation of prevalence. This problem can be avoided by designing studies in ways to ensure that every member of the target population has a known probability of selection, and a very high probability of full and successful participation in the study.
+
+### 9. Answer:
+  * a. Social desirability bias occurs when people attempt to present as normal by providing inaccurate answers. This would result in false-negative classification, or low sensitivity.
+  * b. It seems unlikely that the sensitivity of these instruments would be affected by exposure, so the most likely type of bias would be nondifferential misclassification bias. However, since the investigators are concerned that impulsive behavior may be caused by these drugs, it is conceivable that the exposure could change the measurement properties of the diagnostic instruments. For example, people might impulsively provide certain answers when taking these medications, potentially increasing the sensitivity or reducing the specificity among the exposed participants.
+  * c. Nondifferential misclassification bias is predictably in the direction of the null value of the parameter being estimated. In the case of the odds ratio, the estimates would be biased towards the null value of 1.
+
+### 10. Answer:
+  * a. Recall bias refers to increased recollection of past exposures among people with a disease. The term can mean other things, so more specific terminology is preferable—e.g., differential misclassification of exposure with greater sensitivity in the cases.
+  * b. This type of bias in case-control studies tends to inflate the value of the odds ratio.
+  * c. In a disease that causes cognitive problems (such as dementia), those with the disease may be less likely to recall past exposures than controls. Their defective recall could lead to bias in the other direction. This possibility illustrates the hazards of using nonspecific terminology such as recall bias.

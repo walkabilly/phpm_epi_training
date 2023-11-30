@@ -7,9 +7,10 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 ## Practice Material
 
 ### Prevalence and Incidence
-* [Web](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.md) 
-* [PDF](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.pdf)
+* [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.pdf)
 * [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_answers.md)
+### Prevalence and Incidence
+
 
 ## Slides and Study Notes
 
