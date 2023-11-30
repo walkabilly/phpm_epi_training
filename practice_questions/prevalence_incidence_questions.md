@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Prevalence and Incidence Questions
 
 ### 1. According to data from Statistic Canada, there were 2,273,800 people older than 17 with asthma in Canada in 2019. Assuming that this information is correct and that the population of Canada older than 17 in that year was 30,378,269 at mid-2019, what is the prevalence of asthma in Canada?
