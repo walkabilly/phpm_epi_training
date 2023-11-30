@@ -9,8 +9,12 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 ### Prevalence and Incidence
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.pdf)
 * [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_answers.md)
-### Prevalence and Incidence
 
+### Random and Systematic Error + Types of Bias 
+* [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_questions.pdf)
+* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_answers.md)
+
+### Random and Systematic Error + Types of Bias 
 
 ## Slides and Study Notes
 
