@@ -28,7 +28,7 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 
 ## Slides and Study Notes
 
-### ANOVA, Chi-square, T-test
+## ANOVA, Chi-square, T-test
 
 #### Objectives and Competencies
 * Medical Expert - 2.1.6	Describe the analytic tests and methods used to explain differences in health and health related behaviours including but not limited to: Analysis of variance (ANOVA), Chi-square, Forecasting, Geospatial analysis, Kappa correlation, Life tables, Logistic regression, Modeling, Survival analysis, T-test
@@ -42,7 +42,7 @@ __Additional articles and readings__
 * [The Ultimate Guide to ANOVA](https://www.graphpad.com/guides/the-ultimate-guide-to-anova)
 * [YouTube - ANOVA (Analysis of Variance) Analysis](https://www.youtube.com/watch?v=g5HlLOwcXuI)
 
-### Forecasting
+## Forecasting
 
 #### Objectives and Competencies
 * Medical Expert - 3.4.5	Interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Modelling, Forecasting, Geospatial analysis
@@ -60,7 +60,7 @@ __Additional articles and readings__
 * Chen L-P, Zhang Q, Yi GY, He W (2021) Model-based forecasting for Canadian COVID-19 data. PLoS ONE 16(1): e0244536. [https://doi.org/10.1371/journal.pone.0244536](https://doi.org/10.1371/journal.pone.0244536).
 * Solomon PJ, Isham VS. Disease surveillance and data collection issues in epidemic modelling. Stat Methods Med Res. 2000 Jun;9(3):259-77. [doi.org/10.1177/096228020000900306](doi.org/10.1177/096228020000900306). 
    
-### Geospatial analysis
+## Geospatial analysis
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
@@ -77,7 +77,7 @@ __Additional articles and readings__
 * [https://www.axismaps.com/guide/using-colors-on-maps](https://www.axismaps.com/guide/using-colors-on-maps)
 * [https://colorbrewer2.org/](https://colorbrewer2.org/)
 
-### Logistic regression and modeling
+## Logistic regression and modeling
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
@@ -92,7 +92,7 @@ __Additional articles and readings__
 * [Youtube - Logistic Regression](https://www.youtube.com/watch?v=PIPVexXUvx0)  
 * Harris JK. Primer on binary logistic regression. Fam Med Community Health. 2021 Dec;9(Suppl 1):e001290. doi: 10.1136/fmch-2021-001290. PMID: 34952854; PMCID: PMC8710907.
 
-### Survival analysis and life expectancy (life tables)
+## Survival analysis and life expectancy (life tables)
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
@@ -106,7 +106,7 @@ __Additional articles and readings__
 * Selvin, Steve, 'Life Table Analysis: An Introduction', Statistical Analysis of Epidemiologic Data, 3rd edn, Monographs in Epidemiology and Biostatistics (New York, 2004; online edn, Oxford Academic, 1 Sept. 2009), [https://doi.org/10.1093/acprof:oso/9780195172805.003.11](https://doi.org/10.1093/acprof:oso/9780195172805.003.11).
 * Dey, T., Lipsitz, S.R., Cooper, Z. et al. Survival analysis—time-to-event data and censoring. Nat Methods 19, 906–908 (2022). [https://doi.org/10.1038/s41592-022-01563-7](https://doi.org/10.1038/s41592-022-01563-7)
 
-### Analysis asscociated with study designs
+## Analysis asscociated with study designs
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
@@ -118,7 +118,7 @@ __Additional articles and readings__
 
 * Add here   
 
-### Qualitative analysis (delphi process, focus group, key informant surveys, nominal group, participant observation, etc)
+## Qualitative analysis (delphi process, focus group, key informant surveys, nominal group, participant observation, etc)
 
 #### Objectives and Competencies
 * Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
@@ -130,7 +130,7 @@ __Additional articles and readings__
 
 * Add here   
 
-### Social network analysis
+## Social network analysis
 
 #### Objectives and Competencies
 * Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
@@ -142,7 +142,7 @@ __Additional articles and readings__
 
 * Add here  
 
-### Vaccine efficacy and effectiveness analysis
+## Vaccine efficacy and effectiveness analysis
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
@@ -153,7 +153,7 @@ __Additional articles and readings__
 
 * Add here  
 
-### Test analysis (sensitivity, specificity, NPV, PPV)	
+## Test analysis (sensitivity, specificity, NPV, PPV)	
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
@@ -165,7 +165,7 @@ __Additional articles and readings__
 
 * Add here  
 
-### Measures of association
+## Measures of association
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
