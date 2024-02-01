@@ -102,9 +102,10 @@ __Additional articles and readings__
 
 __Additional articles and readings__
 
-* Add here   
+* [Youtube - Life table basics](https://www.youtube.com/watch?v=ybLNhdZMgJU)  
+* Selvin, Steve, 'Life Table Analysis: An Introduction', Statistical Analysis of Epidemiologic Data, 3rd edn, Monographs in Epidemiology and Biostatistics (New York, 2004; online edn, Oxford Academic, 1 Sept. 2009), [https://doi.org/10.1093/acprof:oso/9780195172805.003.11](https://doi.org/10.1093/acprof:oso/9780195172805.003.11).
 
-### Analysis asscociated with study designs
+### Analysis asscociated with study designs.
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
