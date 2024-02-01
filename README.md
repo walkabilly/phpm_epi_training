@@ -104,8 +104,9 @@ __Additional articles and readings__
 
 * [Youtube - Life table basics](https://www.youtube.com/watch?v=ybLNhdZMgJU)  
 * Selvin, Steve, 'Life Table Analysis: An Introduction', Statistical Analysis of Epidemiologic Data, 3rd edn, Monographs in Epidemiology and Biostatistics (New York, 2004; online edn, Oxford Academic, 1 Sept. 2009), [https://doi.org/10.1093/acprof:oso/9780195172805.003.11](https://doi.org/10.1093/acprof:oso/9780195172805.003.11).
+* Dey, T., Lipsitz, S.R., Cooper, Z. et al. Survival analysis—time-to-event data and censoring. Nat Methods 19, 906–908 (2022). [https://doi.org/10.1038/s41592-022-01563-7](https://doi.org/10.1038/s41592-022-01563-7)
 
-### Analysis asscociated with study designs.
+### Analysis asscociated with study designs
 
 #### Objectives and Competencies
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
