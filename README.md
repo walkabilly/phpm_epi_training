@@ -98,7 +98,7 @@ __Additional articles and readings__
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 * Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
 
-### [Put the Slides Here]()
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Life%20Tables%20Survival%20Analysis.pdf)
 
 __Additional articles and readings__
 
