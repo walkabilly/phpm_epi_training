@@ -15,8 +15,11 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 * [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_answers.md)
 
 ### Sensitivity and Specificity
-* [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/sensitivity_specificity_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/sensitivity_specificity_questions.pdf)
-* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/sensitivity_specificity_answers.md)
+* [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/measures_of_association_practice.pdf)
+
+### Measures of Association
+* [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.pdf)
+* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)
 
 ### Odds Ratio
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/odds_ratio_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/odds_ratio_questions.pdf)
@@ -24,7 +27,7 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 
 ### Regression Analysis
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.pdf)
-* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)
+* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)\
 
 ## Slides and Study Notes
 
@@ -112,11 +115,13 @@ __Additional articles and readings__
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 * Medical Expert - 3.4.4	Apply and interpret appropriate quantitative methods and analytic tests to explain differences in health and health related behaviours, including but not limited to: Life tables, Survival analysis, T-test, ANOVA (Analysis of Variance), Chi-square, Logistic regression, Kappa, Correlation
 
-### [Put the Slides Here]()
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Study%20Design_Measures%20of%20Association.pdf)
 
 __Additional articles and readings__
 
-* Add here   
+* [Intro to study designs and measures of association in epidemiology Epidemiological Methods](https://www.youtube.com/watch?v=fvqkIKQA_zg)  
+* Hayes-Larson E, Kezios KL, Mooney SJ, Lovasi G. Who is in this study, anyway? Guidelines for a useful Table 1. J Clin Epidemiol. 2019 Oct;114:125-132. [https://doi.org/10.1016/j.jclinepi.2019.06.011](https://doi.org/10.1016/j.jclinepi.2019.06.011).
+* Song, Jae W. M.D.; Chung, Kevin C. M.D., M.S.. Observational Studies: Cohort and Case-Control Studies. Plastic and Reconstructive Surgery 126(6):p 2234-2242. [https://doi.org/10.1097/PRS.0b013e3181f44abc](https://doi.org/10.1097/PRS.0b013e3181f44abc).
 
 ## Qualitative analysis (delphi process, focus group, key informant surveys, nominal group, participant observation, etc)
 
