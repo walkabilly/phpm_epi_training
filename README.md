@@ -27,7 +27,7 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 
 ### Regression Analysis
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.pdf)
-* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)\
+* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)
 
 ## Slides and Study Notes
 
