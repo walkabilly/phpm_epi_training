@@ -1,6 +1,6 @@
 # Public Health and Preventive Medicine Residency Resources
 
-Resources for public health and preventive medicine residents related to their epidemiology training requirements. 
+Resources for public health and preventive medicine residents related to their epidemiology training requirements. These are important for your exam preparation. 
 
 The Epi training resources are based on the Objectives/Competencies based on Public Health and Preventive Medicine Objectives of Training 2014 (Editorial Revision March 2018 v1.1). The epi sessions are based on the following sessions and CanMEDS Roles within the `Epi and Biostats Review` competencies. 
 
