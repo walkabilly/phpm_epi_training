@@ -171,7 +171,7 @@ __Additional articles and readings__
 * Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 
-### [Put the Slides Here]()
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Measures%20of%20association.pdf)
 
 __Additional articles and readings__
 
