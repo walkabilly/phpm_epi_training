@@ -119,7 +119,7 @@ __Additional articles and readings__
 
 __Additional articles and readings__
 
-* [Intro to study designs and measures of association in epidemiology Epidemiological Methods](https://www.youtube.com/watch?v=fvqkIKQA_zg)  
+* [Youtube - Intro to study designs and measures of association in epidemiology Epidemiological Methods](https://www.youtube.com/watch?v=fvqkIKQA_zg)  
 * Hayes-Larson E, Kezios KL, Mooney SJ, Lovasi G. Who is in this study, anyway? Guidelines for a useful Table 1. J Clin Epidemiol. 2019 Oct;114:125-132. [https://doi.org/10.1016/j.jclinepi.2019.06.011](https://doi.org/10.1016/j.jclinepi.2019.06.011).
 * Song, Jae W. M.D.; Chung, Kevin C. M.D., M.S.. Observational Studies: Cohort and Case-Control Studies. Plastic and Reconstructive Surgery 126(6):p 2234-2242. [https://doi.org/10.1097/PRS.0b013e3181f44abc](https://doi.org/10.1097/PRS.0b013e3181f44abc).
 
@@ -129,11 +129,17 @@ __Additional articles and readings__
 * Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
 * Medical Expert - 3.4.6	Apply and interpret qualitative methods to explore knowledge, attitudes, beliefs and behaviours and public health interventions, including but not limited to: Participant observation, Key informant surveys, Nominal group, Focus group, Delphi process, Social network analysis and applicable approaches
 
-### [Put the Slides Here]()
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Qualitative%20Research.pdf)
 
 __Additional articles and readings__
 
-* Add here   
+* [Video - Curry, L. What is qualitative research?](https://library.usask.ca/scripts/remote?URL=http://dx.doi.org/10.4135/9781529777512)
+* Boffa, J., Moules, N., Mayan, M., Cowie, R.L. (2013). More than just great quotes: An introduction to
+the Canadian Tri-Council’s qualitative requirements. Canadian Journal of Infectious Diseases and
+Medical Microbiology, 24(2):103-108. https://doi.org/10.1155/2013/253931
+* Canadian Institutes of Health Research, Natural Sciences and Engineering Research Council of
+Canada, and Social Sciences and Humanities Research Council of Canada. (2018). Chapter 10:
+Qualitative research. Pp. 139-142. Tri-Council Policy Statement: Ethical Conduct for Research
 
 ## Social network analysis
 
