@@ -147,11 +147,13 @@ Qualitative research. Pp. 139-142. Tri-Council Policy Statement: Ethical Conduct
 * Medical Expert - 2.1.7	Describe the methods used to explore knowledge, attitudes, beliefs and behaviours and public health interventions including but not limited to: Delphi process, Focus group, Key informant surveys, Nominal group, Participant observation, Social network analysis
 * Medical Expert - 3.4.6	Apply and interpret qualitative methods to explore knowledge, attitudes, beliefs and behaviours and public health interventions, including but not limited to: Participant observation, Key informant surveys, Nominal group, Focus group, Delphi process, Social network analysis and applicable approaches
 
-### [Put the Slides Here]()
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Social%20Network%20Analysis.pdf)
 
 __Additional articles and readings__
 
-* Add here  
+* [Video - Introduction to Social Network Analysis](https://www.youtube.com/watch?v=lnLW6ITFY3M)
+* Luke DA, Harris JK. Network analysis in public health: history, methods, and applications. Annu Rev Public Health. 2007;28:69-93. doi: [https://doi.org/10.1146/annurev.publhealth.28.021406.144132](https://doi.org/10.1146/annurev.publhealth.28.021406.144132). PMID: 17222078.
+* Columbia Medical Center. Social Network Analysis. [https://www.publichealth.columbia.edu/research/population-health-methods/social-network-analysis](https://www.publichealth.columbia.edu/research/population-health-methods/social-network-analysis).
 
 ## Vaccine efficacy and effectiveness analysis
 
