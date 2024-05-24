@@ -15,7 +15,8 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 * [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/prevalence_incidence_answers.md)
 
 ### Sensitivity and Specificity
-* [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/measures_of_association_practice.pdf)
+* [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/sensitivity_specificity_questions.pdf) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/sensitivity_specificity_questions.pdf)
+* [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/sensitivity_specificity_answers.pdf)
 
 ### Measures of Association
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.pdf)
