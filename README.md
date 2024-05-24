@@ -173,11 +173,14 @@ __Additional articles and readings__
 * Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
 * Medical Expert - 	3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 
-### [Put the Slides Here]()
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Sensitivity%20Specificity.pdf)
 
 __Additional articles and readings__
 
-* Add here  
+* [Video -  Sensitivity and Specificity simplified ](https://www.youtube.com/watch?v=psELBu7muNY)
+
+* Monaghan TF, Rahman SN, Agudelo CW, Wein AJ, Lazar JM, Everaert K, Dmochowski RR. Foundational Statistical Principles in Medical Research: Sensitivity, Specificity, Positive Predictive Value, and Negative Predictive Value. Medicina. 2021; 57(5):503. [https://doi.org/10.3390/medicina57050503](https://doi.org/10.3390/medicina57050503)
+* Swift A, Heale R, Twycross A. What are sensitivity and specificity? Evidence-Based Nursing 2020;23:2-4. [https://ebn.bmj.com/content/23/1/2](https://ebn.bmj.com/content/23/1/2)
 
 ## Measures of association
 
