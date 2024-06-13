@@ -188,10 +188,12 @@ __Additional articles and readings__
 * Medical Expert - 3.1.1	Analyze population level data in order to assess health status, health inequalities, determinants, and different needs to support prioritization of action
 * Medical Expert - 3.1.3	Use a range of methods to assess morbidity and burden of disease within and between populations
 
-### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Measures%20of%20association.pdf)
+### [Download Slides Here](https://github.com/walkabilly/phpm_epi_training/blob/main/slides/PHPM%20Measures%20of%20Association.pdf)
 
 __Additional articles and readings__
 
-* Add here  
+* [Video - Risk, Rate and Odds](https://youtu.be/dWtzaKYFg00?si=GSJWcig_c9CFFIr4)
 
+* Beichou, J., Palta, M. (2014). Rates, Risks, Measures of Association and Impact. In: Ahrens, W., Pigeot, I. (eds) Handbook of Epidemiology. Springer, New York, NY. [https://doi.org/10.1007/978-0-387-09834-0_3](https://doi.org/10.1007/978-0-387-09834-0_3).
+* Roberts MR, Ashrafzadeh S, Asgari MM. Research Techniques Made Simple: Interpreting Measures of Association in Clinical Research. J Invest Dermatol. 2019 Mar;139(3):502-511.e1. [https://doi.org/10.1016/j.jid.2018.12.023](https://doi.org/10.1016/j.jid.2018.12.023)
 
