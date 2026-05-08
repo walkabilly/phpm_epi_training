@@ -30,6 +30,10 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.pdf)
 * [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)
 
+### Social Network Analysis
+* [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/Social_Network_Analysis_Question.pdf)
+* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/Social_Network_Analysis_Model_Answers.pdf)
+
 ## Slides and Study Notes
 
 ## ANOVA, Chi-square, T-test
