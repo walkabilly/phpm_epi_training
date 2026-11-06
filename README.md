@@ -19,8 +19,11 @@ The Epi training resources are based on the Objectives/Competencies based on Pub
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/sensitivity_specificity_answers.pdf)
 
 ### Measures of Association
-* [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.pdf)
-* [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)
+* 2027
+    + [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/Measures%20of%20association%20practice_2026.pdf)
+* 2026
+    + [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_questions.pdf)
+    + [Answers](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/regression_analysis_answers.md)
 
 ### Odds Ratio
 * [Web Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/odds_ratio_questions.md) or [PDF Version](https://github.com/walkabilly/phpm_epi_training/blob/main/practice_questions/odds_ratio_questions.pdf)
